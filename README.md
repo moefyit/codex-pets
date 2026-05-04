@@ -9,4 +9,5 @@ Nyakku created Codex pets. All pets can be previewed at [Codex pet share](https:
 - [Lihua](./pets/lihua) ([preview](https://codex-pet-share.pages.dev/#/pets/lihua))
 - [Linnea](./pets/linnea) ([preview](https://codex-pet-share.pages.dev/#/pets/linnea))
 - [Nyako Shigure](./pets/nyako-shigure) ([preview](https://codex-pet-share.pages.dev/#/pets/nyako-shigure))
+- [Rimuru](./pets/rimuru) ([preview](https://codex-pet-share.pages.dev/#/pets/rimuru))
 - [Skirk](./pets/skirk) ([preview](https://codex-pet-share.pages.dev/#/pets/skirk))
