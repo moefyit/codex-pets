@@ -11,6 +11,6 @@ Nyakku created Codex pets.
 - [Monica](./pets/monica)
 - [Nyako Shigure](./pets/nyako-shigure)
 - [Rimuru](./pets/rimuru)
-- [Sakuya](./pets/sakuya)
+- [Sakuya Shigure](./pets/sakuya-shigure)
 - [Sandronya](./pets/sandronya)
 - [Skirk](./pets/skirk)
