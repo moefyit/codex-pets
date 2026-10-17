@@ -11,5 +11,6 @@ Nyakku created Codex pets. All pets can be previewed at [Codex pets](https://cod
 - [Monica](./pets/monica) ([preview](https://codex-pets.net/#/pets/monica))
 - [Nyako Shigure](./pets/nyako-shigure) ([preview](https://codex-pets.net/#/pets/nyako-shigure))
 - [Rimuru](./pets/rimuru) ([preview](https://codex-pets.net/#/pets/rimuru))
+- [Sakuya](./pets/sakuya) ([preview](https://codex-pets.net/#/pets/sakuya))
 - [Sandronya](./pets/sandronya) ([preview](https://codex-pets.net/#/pets/sandronya))
 - [Skirk](./pets/skirk) ([preview](https://codex-pets.net/#/pets/skirk))
